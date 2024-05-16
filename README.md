@@ -11,7 +11,7 @@
 
 <details>
   <summary><b><h2>Github Stats 📈 <h2></b></summary>
-  <a href="https://github.com/otajonbozorboyev">
+  <a href="[https://github.com/Feruzbek-Tokhirov]
     <p align="left">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feruzbek-Tokhirov&theme=github_dark">
       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Feruzbek-Tokhirov&theme=github_dark">
