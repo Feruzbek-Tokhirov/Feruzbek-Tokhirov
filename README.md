@@ -8,6 +8,6 @@
 [![My Skills](https://skillicons.dev/icons?i=python,css,html,js,django)](https://skillicons.dev)
 
 ## Other tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,pycharm,github,telegram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,pycharm,github)](https://skillicons.dev)
 
 
