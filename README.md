@@ -1,5 +1,5 @@
 # About me
-<p>Hey! 👋 I'm Feruzbek Tokhirov (feruzbektokhirov).</p>
+<p>Hey! 👋 I'm Feruzbek Tokhirov.</p>
 
 - LinkedIn:                            [Fer_Uzbek Tokhirov](https://www.linkedin.com/in/fer-uzbek-tokhirov-714ba4305/)
 - Leetcode:                           [Feruzbek Tokhirov](https://leetcode.com/u/475z53SBn4/)
